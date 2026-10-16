@@ -1,5 +1,5 @@
-## Everybody Codes 2025
+## Everybody Codes Stories
 
-**Link**: [Everybody Codes 2025](https://everybody.codes/event/2025/quests)
+**Link**: [Everybody Codes Stories](https://everybody.codes/stories)
 
 **Langauge**: Go

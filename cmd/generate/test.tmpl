@@ -1,9 +1,9 @@
-package quest$_test
+package quest$QUEST$_test
 
 import (
 	"fmt"
 
-	. "github.com/Evokoo/EBC_2025_Go/$"
+	. "github.com/Evokoo/$EVENT$/$STORY$/$QUEST$"
 	. "github.com/onsi/ginkgo/v2"
 	. "github.com/onsi/gomega"
 )
@@ -23,7 +23,7 @@ var tests = []Test{
 	// {part: 3, file: "inputs/input_III.txt", target: -1},
 }
 
-var _ = Describe("EBC 2025 - Quest $", func() {
+var _ = Describe("$EVENT$ - $STORY$ - $QUEST$", func() {
 	for _, test := range tests {
 		msg := fmt.Sprintf("Testing Part %d with %s", test.part, test.file)
 		It(msg, func() {

@@ -24,7 +24,6 @@ type File struct {
 }
 
 
-
 func main() {
 	quest 		:= getQuest()
 	rootDir 	:= findModuleRoot()
